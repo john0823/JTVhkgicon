@@ -412,7 +412,7 @@ function chat_moderator()
 														info.nickname="<span title='Meow' style='padding: 1px 3px;color: white;font-size: 0.8572em;font-weight: bold;-moz-border-radius: 2px;-webkit-border-radius: 2px;border-radius: 2px;background-color: #31B49A;'>Meow</span>&nbsp;Alicepy";
 													}
 											}
-				if(info.nickname=="shindow"){
+				if(info.nickname=="raidenshindow"){
 													if(info.tagtype =="mod")
 													{
 														info.tagname="Bass";
