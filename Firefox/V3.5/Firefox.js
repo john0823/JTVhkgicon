@@ -2018,5 +2018,4 @@ function timer(){
 	if(location.href.split("/")[3] != "chat"){
 		setInterval("setupZoom()", 100)
 	}
-	setTimeout("nomod(); changeTab(6);", 5000)
 }
