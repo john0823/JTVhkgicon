@@ -2016,6 +2016,7 @@ function nomod(){
 
 function timer(){
 	if(location.href.split("/")[3] != "chat"){
-		setInterval("setupZoom()", 100)
+		setInterval("setupZoom();", 100);
 	}
+	setTimeout("nomod();", 5000);
 }
