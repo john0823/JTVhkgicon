@@ -305,7 +305,7 @@ function chat_moderator()
 				if(info.tagtype == "mod") info.tagname = "Mod";
                 if(info.tagtype == "admin") { info.tagtype=null; info.tagname=null; }
                 if(info.tagtype == "greeter") { info.tagtype=null; info.tagname=null; }
-				if(info.nickname=="pikachu2014")
+				if(info.nickname=="pikachu2015")
 				{
 					if(info.tagtype =="mod")
 					{
