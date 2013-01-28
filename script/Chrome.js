@@ -632,51 +632,51 @@ message=replaceAll(message,"[small]","<img src='http://i1206.photobucket.com/alb
 message=replaceAll(message,"[dogrun]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/dogrun.gif' height=32 style='vertical-align:bottom;'>");
 message=replaceAll(message,":trollface:", "<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/trollface.png' height=32 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[bitchplease]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/bitchplease.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[foreveralone]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/foreveralone.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[falone]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/foreveralone.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[yuno]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/yuno.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[megusta]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/megusta.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[fuc kyea]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fuckyea.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[fu*kyea]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fuckyea.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[lol]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/lol.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[fap]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fap.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[soon]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/soon.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[fullpanel]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fullpanel.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[jackiechan]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/jackiechan.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[seriously?]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/seriously.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[serious?]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/seriously.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[truestory]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/truestory.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[youdontsay?]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/youdontsay.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[dontsay?]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/youdontsay.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[soclose]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/soclose.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[feellikeasir]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/feellikeasir.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[ymscare]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ymscare.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[tryingtoscareme]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/tryingtoscareme.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[eats hit]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/eatshit.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[likeasir]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/feellikeasir.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[scared]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ymscare.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[scareme]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/tryingtoscareme.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[eatsh*t]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/eatshit.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[wadiu]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wadiu.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[repeaterror]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/repeaterror.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[error]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/repeaterror.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[playlife]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/playlife.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[diuornodiu]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/diuornodiu.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[deal]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/diuornodiu.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[sofunny]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/sofunny.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[uwillneversucceed]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/uwillneversucceed.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[wantit?]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wantit.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[pkambush]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/pkambush.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[grapebird]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/grapeb.gif' height=31 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[theseopportunites...]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/theseopportunities.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[ithinkiam0]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ithinkiam0.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[seed?]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/seed.gif' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[icannotaccept]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/icannotaccept.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[succeed]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/uwillneversucceed.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[uwants]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wantit.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[ambush]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/pkambush.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[grape]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/grapeb.gif' height=31 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[chances]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/theseopportunities.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[iamzero]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ithinkiam0.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[seed]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/seed.gif' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[unacceptable]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/icannotaccept.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[stopsaying]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/stopsaying.gif' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[suchanuglygirl]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/suchanuglygirl.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[wholefamilydie]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wholefamilydie.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[ugly]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/suchanuglygirl.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[bye9bye]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wholefamilydie.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[yesucan]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/yesucan.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[rufkingkiddingme?]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/rufkingkiddingme.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[kidding?]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/rufkingkiddingme.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[deskflip]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/deskflip.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[ragepose]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ragepose.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[morepics]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/morepics.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[gaaaaaayyy]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/gay.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[more]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/morepics.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[gaayyy]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/gay.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[bye369]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/bye369.gif' height=15 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[peanuts369]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/peanuts369.gif' height=28 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[okay]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/okay.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[killmeplease]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/killmeplease.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[ynotwtithink]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/mama.jpg' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[finalfantasy]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/finalfantasy.png' height=32 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[killme]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/killmeplease.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[mum]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/mama.jpg' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[ff]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/finalfantasy.png' height=32 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[peanuts]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/peanuts.gif' height=35 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[no]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/no.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[fuuuu]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fuuuu.png' height=50 style='vertical-align:bottom;'>");
@@ -701,12 +701,12 @@ message=replaceAll(message,"[fuc klm]","<img src='http://m.hkgolden.com/faces/lo
 message=replaceAll(message,"[sosadlm]","<img src='http://m.hkgolden.com/faces/lomore/sosad.gif' height=37 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[bouncerlm]","<img src='http://m.hkgolden.com/faces/lomore/bouncer.gif' height=82 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[wfc]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wfc.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[ifyouknowwhatimean]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ifyouknowwhatimean.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[douknowtherules?]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/douknowtherules.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[illusiononly]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/illusiononly.gif' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[mrbean]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ifyouknowwhatimean.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[rules]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/douknowtherules.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[illusion]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/illusiononly.gif' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[iknowthatfeelbro]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/iknowthatfeelbro.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[genius]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/genius.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[heiscrazy]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/heiscrazy.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[crazy]","<img src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/heiscrazy.png' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[angelx]","<img src='http://m.hkgolden.com/faces/xmas/angel.gif' style='vertical-align:bottom'>");
 message=replaceAll(message,"[xx (x]","<img src='http://m.hkgolden.com/faces/xmas/dead.gif' style='vertical-align:bottom'>");
 message=replaceAll(message,"[)x]","<img src='http://m.hkgolden.com/faces/xmas/smile.gif' style='vertical-align:bottom'>");
@@ -998,36 +998,36 @@ function icon()
 		  <img style='cursor:pointer; vertical-align:middle;' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/bye369.gif' onClick='javascript:InsertText(\"[bye369]\",false);' height='15'>\
 		  <img style='cursor:pointer; vertical-align:middle;' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/peanuts369.gif' onClick='javascript:InsertText(\"[peanuts369]\",false);' height='28'>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/peanuts.gif' onClick='javascript:InsertText(\"[peanuts]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/grapeb.gif' onClick='javascript:InsertText(\"[grapebird]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/grapeb.gif' onClick='javascript:InsertText(\"[grape]\",false);'>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/air_girl.gif' onClick='javascript:InsertText(\"[nogirls]\",false);' height='32'>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/dogrun.gif' onClick='javascript:InsertText(\"[dogrun]\",false);' width='150'>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/small.gif' onClick='javascript:InsertText(\"[small]\",false);' height='22'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/tryingtoscareme.png' onClick='javascript:InsertText(\"[tryingtoscareme]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/eatshit.png' onClick='javascript:InsertText(\"[eats hit]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/tryingtoscareme.png' onClick='javascript:InsertText(\"[scareme]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/eatshit.png' onClick='javascript:InsertText(\"[eatsh*t]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wadiu.png' onClick='javascript:InsertText(\"[wadiu]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/repeaterror.png' onclick='javascript:InsertText(\"[repeaterror]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/repeaterror.png' onclick='javascript:InsertText(\"[error]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/playlife.png' height=32 onClick='javascript:InsertText(\"[playlife]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/diuornodiu.png' height=32 onClick='javascript:InsertText(\"[diuornodiu]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/diuornodiu.png' height=32 onClick='javascript:InsertText(\"[deal]\",false);'>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/sofunny.png' height=32 onClick='javascript:InsertText(\"[sofunny]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/uwillneversucceed.png' height=32 onClick='javascript:InsertText(\"[uwillneversucceed]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wantit.png' height=32 onClick='javascript:InsertText(\"[wantit?]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/pkambush.png' height=32 onClick='javascript:InsertText(\"[pkambush]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/theseopportunities.png' height=32 onClick='javascript:InsertText(\"[theseopportunites...]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ithinkiam0.png' height=32 onClick='javascript:InsertText(\"[ithinkiam0]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/seed.gif' onclick='javascript:InsertText(\"[seed?]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/icannotaccept.png' onclick='javascript:InsertText(\"[icannotaccept]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/uwillneversucceed.png' height=32 onClick='javascript:InsertText(\"[succeed]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wantit.png' height=32 onClick='javascript:InsertText(\"[uwants]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/pkambush.png' height=32 onClick='javascript:InsertText(\"[ambush]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/theseopportunities.png' height=32 onClick='javascript:InsertText(\"[chances]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ithinkiam0.png' height=32 onClick='javascript:InsertText(\"[iamzero]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/seed.gif' onclick='javascript:InsertText(\"[seed]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/icannotaccept.png' onclick='javascript:InsertText(\"[unacceptable]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/stopsaying.gif' onClick='javascript:InsertText(\"[stopsaying]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/suchanuglygirl.png' onclick='javascript:InsertText(\"[suchanuglygirl]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wholefamilydie.png' onclick='javascript:InsertText(\"[wholefamilydie]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/morepics.png' onclick='javascript:InsertText(\"[morepics]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/killmeplease.png' onclick='javascript:InsertText(\"[killmeplease]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/mama.jpg' onclick='javascript:InsertText(\"[ynotwtithink]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/suchanuglygirl.png' onclick='javascript:InsertText(\"[ugly]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wholefamilydie.png' onclick='javascript:InsertText(\"[bye9bye]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/morepics.png' onclick='javascript:InsertText(\"[more]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/killmeplease.png' onclick='javascript:InsertText(\"[killme]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/mama.jpg' onclick='javascript:InsertText(\"[mum]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wfc.png' onclick='javascript:InsertText(\"[wfc]\",false);' height=32>\
-		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/douknowtherules.png' onclick='javascript:InsertText(\"[douknowtherules?]\",false);' height=32>\
-		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/illusiononly.gif' onclick='javascript:InsertText(\"[illusiononly]\",false);' height=32>\
-		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/heiscrazy.png' onclick='javascript:InsertText(\"[heiscrazy]\",false);' height=32>\
+		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/douknowtherules.png' onclick='javascript:InsertText(\"[rules]\",false);' height=32>\
+		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/illusiononly.gif' onclick='javascript:InsertText(\"[illusion]\",false);' height=32>\
+		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/heiscrazy.png' onclick='javascript:InsertText(\"[crazy]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/congrats.png'  onclick='javascript:InsertText(\"[congrats]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/finalfantasy.png' onclick='javascript:InsertText(\"[finalfantasy]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/finalfantasy.png' onclick='javascript:InsertText(\"[ff]\",false);' height=32>\
           </td></tr></table></div>\
 		  <div id='myTab_Content3' style='display:none;'>\
           <table><tr><td>\
@@ -1054,35 +1054,35 @@ function icon()
 		  </tr></table></div>\
           <div id='myTab_Content4' style='display:none;'>\
           <table><tr><td>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/foreveralone.png' onclick='javascript:InsertText(\"[foreveralone]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/foreveralone.png' onclick='javascript:InsertText(\"[falone]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/trollface.png' onclick='javascript:InsertText(\":trollface:\",false);' height='32'>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/bitchplease.png' height='32' onclick='javascript:InsertText(\"[bitchplease]\",false);'>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/yuno.png' onclick='javascript:InsertText(\"[yuno]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/megusta.png' onclick='javascript:InsertText(\"[megusta]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fuckyea.png' onclick='javascript:InsertText(\"[fuc kyea]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fuckyea.png' onclick='javascript:InsertText(\"[fu*kyea]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/lol.png' onclick='javascript:InsertText(\"[lol]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fap.png' onclick='javascript:InsertText(\"[fap]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/soon.png' onclick='javascript:InsertText(\"[soon]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/seriously.png' onclick='javascript:InsertText(\"[seriously?]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/seriously.png' onclick='javascript:InsertText(\"[serious?]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/truestory.png' onclick='javascript:InsertText(\"[truestory]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/jackiechan.png' onclick='javascript:InsertText(\"[jackiechan]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fullpanel.png' onclick='javascript:InsertText(\"[fullpanel]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/youdontsay.png' onclick='javascript:InsertText(\"[youdontsay?]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/youdontsay.png' onclick='javascript:InsertText(\"[dontsay?]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ragepose.png' onclick='javascript:InsertText(\"[ragepose]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/soclose.png' onclick='javascript:InsertText(\"[soclose]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/feellikeasir.png' onclick='javascript:InsertText(\"[feellikeasir]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ymscare.png' onclick='javascript:InsertText(\"[ymscare]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/feellikeasir.png' onclick='javascript:InsertText(\"[likeasir]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ymscare.png' onclick='javascript:InsertText(\"[scared]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/yesucan.png' onclick='javascript:InsertText(\"[yesucan]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/rufkingkiddingme.png' onclick='javascript:InsertText(\"[rufkingkiddingme?]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/rufkingkiddingme.png' onclick='javascript:InsertText(\"[kidding?]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/deskflip.png' onclick='javascript:InsertText(\"[deskflip]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/okay.png' onclick='javascript:InsertText(\"[okay]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/no.png' onclick='javascript:InsertText(\"[no]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fuuuu.png' onclick='javascript:InsertText(\"[fuuuu]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ohgodwhy.png' onclick='javascript:InsertText(\"[ohgodwhy]\",false);' height=32>\
-		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ifyouknowwhatimean.png' onclick='javascript:InsertText(\"[ifyouknowwhatimean]\",false);' height=32>\
+		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ifyouknowwhatimean.png' onclick='javascript:InsertText(\"[mrbean]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/iknowthatfeelbro.png' onclick='javascript:InsertText(\"[iknowthatfeelbro]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/genius.png' onclick='javascript:InsertText(\"[genius]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/gay.png' onclick='javascript:InsertText(\"[gaaaaaayyy]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/gay.png' onclick='javascript:InsertText(\"[gaayyy]\",false);' height=32>\
           </td></tr></table></div>\
           <div id='myTab_Content5' style='display:none;'>\
           <table><tr><td>\
@@ -1363,36 +1363,36 @@ function icon()
 		  <img style='cursor:pointer; vertical-align:middle;' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/bye369.gif' onClick='javascript:InsertText(\"[bye369]\",false);' height='15'>\
 		  <img style='cursor:pointer; vertical-align:middle;' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/peanuts369.gif' onClick='javascript:InsertText(\"[peanuts369]\",false);' height='28'>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/peanuts.gif' onClick='javascript:InsertText(\"[peanuts]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/grapeb.gif' onClick='javascript:InsertText(\"[grapebird]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/grapeb.gif' onClick='javascript:InsertText(\"[grape]\",false);'>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/air_girl.gif' onClick='javascript:InsertText(\"[nogirls]\",false);' height='32'>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/dogrun.gif' onClick='javascript:InsertText(\"[dogrun]\",false);' width='150'>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/small.gif' onClick='javascript:InsertText(\"[small]\",false);' height='22'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/tryingtoscareme.png' onClick='javascript:InsertText(\"[tryingtoscareme]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/eatshit.png' onClick='javascript:InsertText(\"[eats hit]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/tryingtoscareme.png' onClick='javascript:InsertText(\"[scareme]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/eatshit.png' onClick='javascript:InsertText(\"[eatsh*t]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wadiu.png' onClick='javascript:InsertText(\"[wadiu]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/repeaterror.png' onclick='javascript:InsertText(\"[repeaterror]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/repeaterror.png' onclick='javascript:InsertText(\"[error]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/playlife.png' height=32 onClick='javascript:InsertText(\"[playlife]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/diuornodiu.png' height=32 onClick='javascript:InsertText(\"[diuornodiu]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/diuornodiu.png' height=32 onClick='javascript:InsertText(\"[deal]\",false);'>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/sofunny.png' height=32 onClick='javascript:InsertText(\"[sofunny]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/uwillneversucceed.png' height=32 onClick='javascript:InsertText(\"[uwillneversucceed]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wantit.png' height=32 onClick='javascript:InsertText(\"[wantit?]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/pkambush.png' height=32 onClick='javascript:InsertText(\"[pkambush]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/theseopportunities.png' height=32 onClick='javascript:InsertText(\"[theseopportunites...]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ithinkiam0.png' height=32 onClick='javascript:InsertText(\"[ithinkiam0]\",false);'>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/seed.gif' onclick='javascript:InsertText(\"[seed?]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/icannotaccept.png' onclick='javascript:InsertText(\"[icannotaccept]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/uwillneversucceed.png' height=32 onClick='javascript:InsertText(\"[succeed]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wantit.png' height=32 onClick='javascript:InsertText(\"[uwants]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/pkambush.png' height=32 onClick='javascript:InsertText(\"[ambush]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/theseopportunities.png' height=32 onClick='javascript:InsertText(\"[chances]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ithinkiam0.png' height=32 onClick='javascript:InsertText(\"[iamzero]\",false);'>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/seed.gif' onclick='javascript:InsertText(\"[seed]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/icannotaccept.png' onclick='javascript:InsertText(\"[unacceptable]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/stopsaying.gif' onClick='javascript:InsertText(\"[stopsaying]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/suchanuglygirl.png' onclick='javascript:InsertText(\"[suchanuglygirl]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wholefamilydie.png' onclick='javascript:InsertText(\"[wholefamilydie]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/morepics.png' onclick='javascript:InsertText(\"[morepics]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/killmeplease.png' onclick='javascript:InsertText(\"[killmeplease]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/mama.jpg' onclick='javascript:InsertText(\"[ynotwtithink]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/suchanuglygirl.png' onclick='javascript:InsertText(\"[ugly]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wholefamilydie.png' onclick='javascript:InsertText(\"[bye9bye]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/morepics.png' onclick='javascript:InsertText(\"[more]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/killmeplease.png' onclick='javascript:InsertText(\"[killme]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/mama.jpg' onclick='javascript:InsertText(\"[mum]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/wfc.png' onclick='javascript:InsertText(\"[wfc]\",false);' height=32>\
-		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/douknowtherules.png' onclick='javascript:InsertText(\"[douknowtherules?]\",false);' height=32>\
-		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/illusiononly.gif' onclick='javascript:InsertText(\"[illusiononly]\",false);' height=32>\
-		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/heiscrazy.png' onclick='javascript:InsertText(\"[heiscrazy]\",false);' height=32>\
+		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/douknowtherules.png' onclick='javascript:InsertText(\"[rules]\",false);' height=32>\
+		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/illusiononly.gif' onclick='javascript:InsertText(\"[illusion]\",false);' height=32>\
+		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/heiscrazy.png' onclick='javascript:InsertText(\"[crazy]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/congrats.png'  onclick='javascript:InsertText(\"[congrats]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/finalfantasy.png' onclick='javascript:InsertText(\"[finalfantasy]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/finalfantasy.png' onclick='javascript:InsertText(\"[ff]\",false);' height=32>\
           </td></tr></table></div>\
 		  <div id='myTab_Content3' style='display:none;'>\
           <table><tr><td>\
@@ -1419,35 +1419,35 @@ function icon()
 		  </tr></table></div>\
           <div id='myTab_Content4' style='display:none;'>\
           <table><tr><td>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/foreveralone.png' onclick='javascript:InsertText(\"[foreveralone]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/foreveralone.png' onclick='javascript:InsertText(\"[falone]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/trollface.png' onclick='javascript:InsertText(\":trollface:\",false);' height='32'>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/bitchplease.png' height='32' onclick='javascript:InsertText(\"[bitchplease]\",false);'>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/yuno.png' onclick='javascript:InsertText(\"[yuno]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/megusta.png' onclick='javascript:InsertText(\"[megusta]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fuckyea.png' onclick='javascript:InsertText(\"[fuc kyea]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fuckyea.png' onclick='javascript:InsertText(\"[fu*kyea]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/lol.png' onclick='javascript:InsertText(\"[lol]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fap.png' onclick='javascript:InsertText(\"[fap]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/soon.png' onclick='javascript:InsertText(\"[soon]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/seriously.png' onclick='javascript:InsertText(\"[seriously?]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/seriously.png' onclick='javascript:InsertText(\"[serious?]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/truestory.png' onclick='javascript:InsertText(\"[truestory]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/jackiechan.png' onclick='javascript:InsertText(\"[jackiechan]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fullpanel.png' onclick='javascript:InsertText(\"[fullpanel]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/youdontsay.png' onclick='javascript:InsertText(\"[youdontsay?]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/youdontsay.png' onclick='javascript:InsertText(\"[dontsay?]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ragepose.png' onclick='javascript:InsertText(\"[ragepose]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/soclose.png' onclick='javascript:InsertText(\"[soclose]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/feellikeasir.png' onclick='javascript:InsertText(\"[feellikeasir]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ymscare.png' onclick='javascript:InsertText(\"[ymscare]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/feellikeasir.png' onclick='javascript:InsertText(\"[likeasir]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ymscare.png' onclick='javascript:InsertText(\"[scared]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/yesucan.png' onclick='javascript:InsertText(\"[yesucan]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/rufkingkiddingme.png' onclick='javascript:InsertText(\"[rufkingkiddingme?]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/rufkingkiddingme.png' onclick='javascript:InsertText(\"[kidding?]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/deskflip.png' onclick='javascript:InsertText(\"[deskflip]\",false);' height=32>\
           <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/okay.png' onclick='javascript:InsertText(\"[okay]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/no.png' onclick='javascript:InsertText(\"[no]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/fuuuu.png' onclick='javascript:InsertText(\"[fuuuu]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ohgodwhy.png' onclick='javascript:InsertText(\"[ohgodwhy]\",false);' height=32>\
-		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ifyouknowwhatimean.png' onclick='javascript:InsertText(\"[ifyouknowwhatimean]\",false);' height=32>\
+		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/ifyouknowwhatimean.png' onclick='javascript:InsertText(\"[mrbean]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/iknowthatfeelbro.png' onclick='javascript:InsertText(\"[iknowthatfeelbro]\",false);' height=32>\
 		  <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/genius.png' onclick='javascript:InsertText(\"[genius]\",false);' height=32>\
-          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/gay.png' onclick='javascript:InsertText(\"[gaaaaaayyy]\",false);' height=32>\
+          <img class='clickicon' src='http://i1206.photobucket.com/albums/bb446/kIsSkIt17/JTVhkgicon/gay.png' onclick='javascript:InsertText(\"[gaayyy]\",false);' height=32>\
           </td></tr></table></div>\
           <div id='myTab_Content5' style='display:none;'>\
           <table><tr><td>\
