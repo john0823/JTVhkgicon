@@ -301,7 +301,7 @@ function chat_moderator()
 	Chat.prototype.insert_chat_line2=Chat.prototype.insert_chat_line;
 	Chat.prototype.insert_chat_line=function(info)
 	{
-		if(is_twitch){
+		if(!is_twitch){
 				if(info.tagtype == "broadcaster") info.tagname = "Host";
 				if(info.tagtype == "mod") info.tagname = "Mod";
                 if(info.tagtype == "admin") { info.tagtype=null; info.tagname=null; }
