@@ -301,6 +301,7 @@ function chat_moderator()
 	Chat.prototype.insert_chat_line2=Chat.prototype.insert_chat_line;
 	Chat.prototype.insert_chat_line=function(info)
 	{
+		if(is_twitch){
 				if(info.tagtype == "broadcaster") info.tagname = "Host";
 				if(info.tagtype == "mod") info.tagname = "Mod";
                 if(info.tagtype == "admin") { info.tagtype=null; info.tagname=null; }
@@ -450,6 +451,7 @@ function chat_moderator()
                 if(info.chat_type == "myspace") info.nickname = "MS-"+info.nickname;
 
 		this.insert_chat_line2(info);
+	}
 	}
 
 	Chat.prototype.emoticonize2=Chat.prototype.emoticonize;
