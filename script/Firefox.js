@@ -2026,5 +2026,5 @@ function timer(){
 	if(location.href.split("/")[3] != "chat"){
 		setInterval("setupZoom();", 100);
 	}
-	setTimeout("nomod(); changeTab(8);", 5000);
+	setTimeout("nomod();", 5000);
 }
