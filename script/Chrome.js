@@ -569,13 +569,13 @@ function smilize(message)
         	}
 		}
 	}
-message=replaceAll(message,":tf:", "<img src='http://sites.google.com/site/jtvhkgicon/home/image/trollface.png' height=32 style='vertical-align:bottom;'>");
-message=replaceAll(message,"D:", "<img src='http://s3.amazonaws.com/betterjtv/smileys/aww.png' style='vertical-align:bottom;'>");
-message=replaceAll(message,";(", "<img src='http://s3.amazonaws.com/betterjtv/smileys/cry.png' style='vertical-align:bottom;'>");
+message=replaceAll(message,":tf:", "<img src='http://sites.google.com/site/jtvhkgicon/home/image/trollface.png?attredirects=0' height=32 style='vertical-align:bottom;'>");
+message=replaceAll(message,"D:", "<img src='http://s3.amazonaws.com/betterjtv/smileys/aww.png?attredirects=0' style='vertical-align:bottom;'>");
+message=replaceAll(message,";(", "<img src='http://s3.amazonaws.com/betterjtv/smileys/cry.png?attredirects=0' style='vertical-align:bottom;'>");
 message=replaceAll(message,":D", "<img src='http://dohirty.tv/i/e/m.jpg' style='vertical-align:bottom;'>");
-message=replaceAll(message,"(puke)", "<img src='http://s3.amazonaws.com/betterjtv/smileys/puke.png' style='vertical-align:bottom;'>");
-message=replaceAll(message,"(mooning)", "<img src='http://s3.amazonaws.com/betterjtv/smileys/mooning.png' style='vertical-align:bottom;'>");
-message=replaceAll(message,"(poolparty)", "<img src='http://s3.amazonaws.com/betterjtv/smileys/poolparty.png' style='vertical-align:bottom;'>");
+message=replaceAll(message,"(puke)", "<img src='http://s3.amazonaws.com/betterjtv/smileys/puke.png?attredirects=0' style='vertical-align:bottom;'>");
+message=replaceAll(message,"(mooning)", "<img src='http://s3.amazonaws.com/betterjtv/smileys/mooning.png?attredirects=0' style='vertical-align:bottom;'>");
+message=replaceAll(message,"(poolparty)", "<img src='http://s3.amazonaws.com/betterjtv/smileys/poolparty.png?attredirects=0' style='vertical-align:bottom;'>");
 message=replaceAll(message,": )","<img src='http://images1.wikia.nocookie.net/__cb20080713124909/evchk/images/f/fb/Smile.gif' style='vertical-align:bottom;'>");
 message=replaceAll(message,"[angel]","<img src='http://images2.wikia.nocookie.net/__cb20080713124039/evchk/images/2/21/Angel.gif' style='vertical-align:bottom;'>");
 message=replaceAll(message,"xx(","<img src='http://images4.wikia.nocookie.net/__cb20080713124334/evchk/images/8/80/Dead.gif' style='vertical-align:bottom;'>");
@@ -641,57 +641,57 @@ message=replaceAll(message,"[byecry]","<img src='http://sites.google.com/site/jt
 message=replaceAll(message,"[byesad]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/byesad.gif' height=15 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[small]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/small.gif' height=22 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[dogrun]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/dogrun.gif' height=32 style='vertical-align:bottom;'>");
-message=replaceAll(message,":trollface:", "<img src='http://sites.google.com/site/jtvhkgicon/home/image/trollface.png' height=32 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[bitchplease]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/bitchplease.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[falone]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/foreveralone.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[yuno]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/yuno.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[megusta]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/megusta.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[fu*kyea]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/fuckyea.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[lol]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/lol.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[fap]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/fap.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[soon]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/soon.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[fullpanel]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/fullpanel.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[jackiechan]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/jackiechan.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[serious?]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/seriously.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[truestory]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/truestory.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[dontsay?]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/youdontsay.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[soclose]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/soclose.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[likeasir]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/feellikeasir.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[scared]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/ymscare.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[scareme]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/tryingtoscareme.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[eatsh*t]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/eatshit.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[wadiu]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/wadiu.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[error]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/repeaterror.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[playlife]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/playlife.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[deal]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/diuornodiu.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[sofunny]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/sofunny.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[succeed]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/uwillneversucceed.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[uwants]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/wantit.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[ambush]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/pkambush.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,":trollface:", "<img src='http://sites.google.com/site/jtvhkgicon/home/image/trollface.png?attredirects=0' height=32 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[bitchplease]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/bitchplease.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[falone]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/foreveralone.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[yuno]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/yuno.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[megusta]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/megusta.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[fu*kyea]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/fuckyea.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[lol]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/lol.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[fap]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/fap.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[soon]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/soon.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[fullpanel]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/fullpanel.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[jackiechan]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/jackiechan.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[serious?]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/seriously.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[truestory]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/truestory.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[dontsay?]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/youdontsay.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[soclose]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/soclose.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[likeasir]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/feellikeasir.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[scared]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/ymscare.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[scareme]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/tryingtoscareme.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[eatsh*t]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/eatshit.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[wadiu]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/wadiu.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[error]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/repeaterror.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[playlife]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/playlife.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[deal]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/diuornodiu.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[sofunny]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/sofunny.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[succeed]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/uwillneversucceed.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[uwants]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/wantit.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[ambush]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/pkambush.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[grape]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/grapeb.gif' height=31 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[chances]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/theseopportunities.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[iamzero]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/ithinkiam0.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[chances]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/theseopportunities.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[iamzero]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/ithinkiam0.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[seed]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/seed.gif' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[unacceptable]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/icannotaccept.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[unacceptable]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/icannotaccept.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[stopsaying]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/stopsaying.gif' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[ugly]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/suchanuglygirl.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[bye9bye]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/wholefamilydie.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[yesucan]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/yesucan.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[kidding?]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/rufkingkiddingme.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[deskflip]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/deskflip.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[ragepose]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/ragepose.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[more]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/morepics.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[gaayyy]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/gay.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[ugly]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/suchanuglygirl.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[bye9bye]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/wholefamilydie.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[yesucan]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/yesucan.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[kidding?]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/rufkingkiddingme.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[deskflip]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/deskflip.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[ragepose]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/ragepose.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[more]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/morepics.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[gaayyy]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/gay.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[bye369]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/bye369.gif' height=15 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[peanuts369]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/peanuts369.gif' height=28 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[okay]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/okay.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[killme]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/killmeplease.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[okay]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/okay.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[killme]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/killmeplease.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[mum]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/mama.jpg' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[ff]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/finalfantasy.png' height=32 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[ff]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/finalfantasy.png?attredirects=0' height=32 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[peanuts]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/peanuts.gif' height=35 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[no]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/no.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[fuuuu]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/fuuuu.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[ohgodwhy]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/ohgodwhy.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[no]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/no.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[fuuuu]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/fuuuu.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[ohgodwhy]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/ohgodwhy.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[:- [lm]","<img src='http://m.hkgolden.com/faces/lomore/angry.gif' height=32 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[:dlm]","<img src='http://m.hkgolden.com/faces/lomore/biggrin.gif' height=32 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[Olm]","<img src='http://m.hkgolden.com/faces/lomore/oh.gif' height=32 style='vertical-align:bottom;'>");
@@ -711,13 +711,13 @@ message=replaceAll(message,"#hehelm#","<img src='http://m.hkgolden.com/faces/lom
 message=replaceAll(message,"[fuc klm]","<img src='http://m.hkgolden.com/faces/lomore/diu.gif' height=32 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[sosadlm]","<img src='http://m.hkgolden.com/faces/lomore/sosad.gif' height=37 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[bouncerlm]","<img src='http://m.hkgolden.com/faces/lomore/bouncer.gif' height=82 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[wfc]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/wfc.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[mrbean]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/ifyouknowwhatimean.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[rules]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/douknowtherules.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[wfc]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/wfc.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[mrbean]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/ifyouknowwhatimean.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[rules]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/douknowtherules.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[illusion]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/illusiononly.gif' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[iknowthatfeelbro]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/iknowthatfeelbro.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[genius]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/genius.png' height=50 style='vertical-align:bottom;'>");
-message=replaceAll(message,"[crazy]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/heiscrazy.png' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[iknowthatfeelbro]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/iknowthatfeelbro.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[genius]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/genius.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
+message=replaceAll(message,"[crazy]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/heiscrazy.png?attredirects=0' height=50 style='vertical-align:bottom;'>");
 message=replaceAll(message,"[angelx]","<img src='http://m.hkgolden.com/faces/xmas/angel.gif' style='vertical-align:bottom'>");
 message=replaceAll(message,"[xx (x]","<img src='http://m.hkgolden.com/faces/xmas/dead.gif' style='vertical-align:bottom'>");
 message=replaceAll(message,"[)x]","<img src='http://m.hkgolden.com/faces/xmas/smile.gif' style='vertical-align:bottom'>");
@@ -820,7 +820,7 @@ message=replaceAll(message,"[photosk]","<img src='http://m.hkgolden.com/faces/si
 message=replaceAll(message,"#firesk#","<img src='http://m.hkgolden.com/faces/sick/fire.gif' style='vertical-align:bottom'>");
 message=replaceAll(message,"[369sk]","<img src='http://m.hkgolden.com/faces/sick/369.gif' style='vertical-align:bottom'>");
 message=replaceAll(message,"[fucksk]","<img src='http://m.hkgolden.com/faces/sick/diu.gif' style='vertical-align:bottom'>");
-message=replaceAll(message,"[congrats]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/congrats.png' height=50 style='vertical-align:bottom'>");
+message=replaceAll(message,"[congrats]","<img src='http://sites.google.com/site/jtvhkgicon/home/image/congrats.png?attredirects=0' height=50 style='vertical-align:bottom'>");
 message=replaceAll(message,":$","<img src='http://forum.mess.be/style_emoticons/mess.be/msn_embarrassed.gif' style='vertical-align:bottom'>");
 message=replaceAll(message,"(awkward)","<img src='http://sites.google.com/site/jtvhkgicon/home/image/8.gif' style='vertical-align:bottom'>");
 message=replaceAll(message,"(drooling)","<img src='http://sites.google.com/site/jtvhkgicon/home/image/17.gif' style='vertical-align:bottom'>");
@@ -1013,32 +1013,32 @@ function icon()
           <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/air_girl.gif' onClick='javascript:InsertText(\"[nogirls]\",false);' height='32'>\
           <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/dogrun.gif' onClick='javascript:InsertText(\"[dogrun]\",false);' width='150'>\
 		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/small.gif' onClick='javascript:InsertText(\"[small]\",false);' height='22'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/tryingtoscareme.png' onClick='javascript:InsertText(\"[scareme]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/eatshit.png' onClick='javascript:InsertText(\"[eatsh*t]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wadiu.png' onClick='javascript:InsertText(\"[wadiu]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/repeaterror.png' onclick='javascript:InsertText(\"[error]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/playlife.png' height=32 onClick='javascript:InsertText(\"[playlife]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/diuornodiu.png' height=32 onClick='javascript:InsertText(\"[deal]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/sofunny.png' height=32 onClick='javascript:InsertText(\"[sofunny]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/uwillneversucceed.png' height=32 onClick='javascript:InsertText(\"[succeed]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wantit.png' height=32 onClick='javascript:InsertText(\"[uwants]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/pkambush.png' height=32 onClick='javascript:InsertText(\"[ambush]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/theseopportunities.png' height=32 onClick='javascript:InsertText(\"[chances]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ithinkiam0.png' height=32 onClick='javascript:InsertText(\"[iamzero]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/tryingtoscareme.png?attredirects=0' onClick='javascript:InsertText(\"[scareme]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/eatshit.png?attredirects=0' onClick='javascript:InsertText(\"[eatsh*t]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wadiu.png?attredirects=0' onClick='javascript:InsertText(\"[wadiu]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/repeaterror.png?attredirects=0' onclick='javascript:InsertText(\"[error]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/playlife.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[playlife]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/diuornodiu.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[deal]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/sofunny.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[sofunny]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/uwillneversucceed.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[succeed]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wantit.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[uwants]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/pkambush.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[ambush]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/theseopportunities.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[chances]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ithinkiam0.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[iamzero]\",false);'>\
           <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/seed.gif' onclick='javascript:InsertText(\"[seed]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/icannotaccept.png' onclick='javascript:InsertText(\"[unacceptable]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/icannotaccept.png?attredirects=0' onclick='javascript:InsertText(\"[unacceptable]\",false);' height=32>\
           <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/stopsaying.gif' onClick='javascript:InsertText(\"[stopsaying]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/suchanuglygirl.png' onclick='javascript:InsertText(\"[ugly]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wholefamilydie.png' onclick='javascript:InsertText(\"[bye9bye]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/morepics.png' onclick='javascript:InsertText(\"[more]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/killmeplease.png' onclick='javascript:InsertText(\"[killme]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/suchanuglygirl.png?attredirects=0' onclick='javascript:InsertText(\"[ugly]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wholefamilydie.png?attredirects=0' onclick='javascript:InsertText(\"[bye9bye]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/morepics.png?attredirects=0' onclick='javascript:InsertText(\"[more]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/killmeplease.png?attredirects=0' onclick='javascript:InsertText(\"[killme]\",false);' height=32>\
           <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/mama.jpg' onclick='javascript:InsertText(\"[mum]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wfc.png' onclick='javascript:InsertText(\"[wfc]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/douknowtherules.png' onclick='javascript:InsertText(\"[rules]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wfc.png?attredirects=0' onclick='javascript:InsertText(\"[wfc]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/douknowtherules.png?attredirects=0' onclick='javascript:InsertText(\"[rules]\",false);' height=32>\
 		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/illusiononly.gif' onclick='javascript:InsertText(\"[illusion]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/heiscrazy.png' onclick='javascript:InsertText(\"[crazy]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/congrats.png'  onclick='javascript:InsertText(\"[congrats]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/finalfantasy.png' onclick='javascript:InsertText(\"[ff]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/heiscrazy.png?attredirects=0' onclick='javascript:InsertText(\"[crazy]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/congrats.png?attredirects=0'  onclick='javascript:InsertText(\"[congrats]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/finalfantasy.png?attredirects=0' onclick='javascript:InsertText(\"[ff]\",false);' height=32>\
           </td></tr></table></div>\
 		  <div id='myTab_Content3' style='display:none;'>\
           <table><tr><td>\
@@ -1065,84 +1065,84 @@ function icon()
 		  </tr></table></div>\
           <div id='myTab_Content4' style='display:none;'>\
           <table><tr><td>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/foreveralone.png' onclick='javascript:InsertText(\"[falone]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/trollface.png' onclick='javascript:InsertText(\":trollface:\",false);' height='32'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/bitchplease.png' height='32' onclick='javascript:InsertText(\"[bitchplease]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/yuno.png' onclick='javascript:InsertText(\"[yuno]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/megusta.png' onclick='javascript:InsertText(\"[megusta]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fuckyea.png' onclick='javascript:InsertText(\"[fu*kyea]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/lol.png' onclick='javascript:InsertText(\"[lol]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fap.png' onclick='javascript:InsertText(\"[fap]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/soon.png' onclick='javascript:InsertText(\"[soon]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/seriously.png' onclick='javascript:InsertText(\"[serious?]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/truestory.png' onclick='javascript:InsertText(\"[truestory]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/jackiechan.png' onclick='javascript:InsertText(\"[jackiechan]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fullpanel.png' onclick='javascript:InsertText(\"[fullpanel]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/youdontsay.png' onclick='javascript:InsertText(\"[dontsay?]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ragepose.png' onclick='javascript:InsertText(\"[ragepose]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/soclose.png' onclick='javascript:InsertText(\"[soclose]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/feellikeasir.png' onclick='javascript:InsertText(\"[likeasir]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ymscare.png' onclick='javascript:InsertText(\"[scared]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/yesucan.png' onclick='javascript:InsertText(\"[yesucan]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/rufkingkiddingme.png' onclick='javascript:InsertText(\"[kidding?]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/deskflip.png' onclick='javascript:InsertText(\"[deskflip]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/okay.png' onclick='javascript:InsertText(\"[okay]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/no.png' onclick='javascript:InsertText(\"[no]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fuuuu.png' onclick='javascript:InsertText(\"[fuuuu]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ohgodwhy.png' onclick='javascript:InsertText(\"[ohgodwhy]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ifyouknowwhatimean.png' onclick='javascript:InsertText(\"[mrbean]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/iknowthatfeelbro.png' onclick='javascript:InsertText(\"[iknowthatfeelbro]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/genius.png' onclick='javascript:InsertText(\"[genius]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/gay.png' onclick='javascript:InsertText(\"[gaayyy]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/foreveralone.png?attredirects=0' onclick='javascript:InsertText(\"[falone]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/trollface.png?attredirects=0' onclick='javascript:InsertText(\":trollface:\",false);' height='32'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/bitchplease.png?attredirects=0' height='32' onclick='javascript:InsertText(\"[bitchplease]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/yuno.png?attredirects=0' onclick='javascript:InsertText(\"[yuno]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/megusta.png?attredirects=0' onclick='javascript:InsertText(\"[megusta]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fuckyea.png?attredirects=0' onclick='javascript:InsertText(\"[fu*kyea]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/lol.png?attredirects=0' onclick='javascript:InsertText(\"[lol]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fap.png?attredirects=0' onclick='javascript:InsertText(\"[fap]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/soon.png?attredirects=0' onclick='javascript:InsertText(\"[soon]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/seriously.png?attredirects=0' onclick='javascript:InsertText(\"[serious?]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/truestory.png?attredirects=0' onclick='javascript:InsertText(\"[truestory]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/jackiechan.png?attredirects=0' onclick='javascript:InsertText(\"[jackiechan]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fullpanel.png?attredirects=0' onclick='javascript:InsertText(\"[fullpanel]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/youdontsay.png?attredirects=0' onclick='javascript:InsertText(\"[dontsay?]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ragepose.png?attredirects=0' onclick='javascript:InsertText(\"[ragepose]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/soclose.png?attredirects=0' onclick='javascript:InsertText(\"[soclose]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/feellikeasir.png?attredirects=0' onclick='javascript:InsertText(\"[likeasir]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ymscare.png?attredirects=0' onclick='javascript:InsertText(\"[scared]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/yesucan.png?attredirects=0' onclick='javascript:InsertText(\"[yesucan]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/rufkingkiddingme.png?attredirects=0' onclick='javascript:InsertText(\"[kidding?]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/deskflip.png?attredirects=0' onclick='javascript:InsertText(\"[deskflip]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/okay.png?attredirects=0' onclick='javascript:InsertText(\"[okay]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/no.png?attredirects=0' onclick='javascript:InsertText(\"[no]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fuuuu.png?attredirects=0' onclick='javascript:InsertText(\"[fuuuu]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ohgodwhy.png?attredirects=0' onclick='javascript:InsertText(\"[ohgodwhy]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ifyouknowwhatimean.png?attredirects=0' onclick='javascript:InsertText(\"[mrbean]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/iknowthatfeelbro.png?attredirects=0' onclick='javascript:InsertText(\"[iknowthatfeelbro]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/genius.png?attredirects=0' onclick='javascript:InsertText(\"[genius]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/gay.png?attredirects=0' onclick='javascript:InsertText(\"[gaayyy]\",false);' height=32>\
           </td></tr></table></div>\
           <div id='myTab_Content5' style='display:none;'>\
           <table><tr><td>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-c2b7132654a19e02-24x18.png' onclick='javascript:InsertText(\"R)\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-13d54d9e49b593b3-24x18.png' onclick='javascript:InsertText(\":)\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1a3f5d14a3190ef1-24x18.png' onclick='javascript:InsertText(\":p\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-912125d7459226cc-24x18.png' onclick='javascript:InsertText(\";P\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-e073a3348e028b40-24x18.png' onclick='javascript:InsertText(\"B)\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-aa3dd5587f06bb7b-24x18.png' onclick='javascript:InsertText(\";)\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-e9218a512e65b0de-24x18.png' onclick='javascript:InsertText(\"O_o\",false);'>\
-		  <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-939757d7759f071f-24x18.png' onclick='javascript:InsertText(\":z\",false);'>\
-		  <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-2d2d0e6fdbc0b733-24x18.png' onclick='javascript:InsertText(\":(\",false);'>\
-		  <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-67cde8d0b7916e57-24x18.png' onclick='javascript:InsertText(\"<3\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-3a624954918104fe-19x27.png' onclick='javascript:InsertText(\"Kreygasm\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ddc6e3a8732cb50f-25x28.png' onclick='javascript:InsertText(\"Kappa\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-6b8d1be08f244e92-19x27.png' onclick='javascript:InsertText(\"RedCoat\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-8b5aaae6e2409deb-20x27.png' onclick='javascript:InsertText(\"StoneLightning\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1903cc415afc404c-20x27.png' onclick='javascript:InsertText(\"TheRinger\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-3a7ee1bc0e5c9af0-21x27.png' onclick='javascript:InsertText(\"JKanStyle\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-41f8a86c4b15b5d8-22x27.png' onclick='javascript:InsertText(\"OptimizePrime\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-551cd64fc3d4590a-21x27.png' onclick='javascript:InsertText(\"CougarHunt\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-95eb8045e7ae63b8-18x27.png' onclick='javascript:InsertText(\"EagleEye\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-35ae4e0e8dd045e1-22x27.png' onclick='javascript:InsertText(\"BrokeBack\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-740242272832a108-30x30.png' onclick='javascript:InsertText(\"BionicBunion\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-521420789e1e93ef-18x27.png' onclick='javascript:InsertText(\"PazPazowitz\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-680b6b3887ef0d17-21x28.png' onclick='javascript:InsertText(\"SwiftRage\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-39f055e707725b5d-18x27.png' onclick='javascript:InsertText(\"BrainSlug\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ce52b18fccf73b29-25x32.png' onclick='javascript:InsertText(\"DansGame\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-18be1a297459453f-36x30.png' onclick='javascript:InsertText(\"PJSalt\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1a1a8bb5cdf6efb9-24x32.png' onclick='javascript:InsertText(\"MVGame\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1e3ccd969459f889-29x27.png' onclick='javascript:InsertText(\"BCWarrior\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ac61a7aeb52a49d3-39x27.png' onclick='javascript:InsertText(\"MrDestructoid\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ce027387c35fb601-22x27.png' onclick='javascript:InsertText(\"PicoMause\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-6aaca644ea5374c6-20x27.png' onclick='javascript:InsertText(\"JonCarnage\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-3dac9659e838fab2-20x27.png' onclick='javascript:InsertText(\"StrawBeary\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-2febb829eae08b0a-21x27.png' onclick='javascript:InsertText(\"GingerPower\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-92a1b848540e9347-23x27.png' onclick='javascript:InsertText(\"SuperVinlin\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-9f276ed33053ec70-32x32.png' onclick='javascript:InsertText(\"SMOrc\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-d14278fea8fad146-19x27.png' onclick='javascript:InsertText(\"FreakinStinkin\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-a5293e92212cadd9-21x27.png' onclick='javascript:InsertText(\"BlargNaut\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-d530ef454aa17093-21x27.png' onclick='javascript:InsertText(\"KevinTurtle\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-179f310b0746584d-23x27.png' onclick='javascript:InsertText(\"NoNoSpot\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-58f4782b85d0069f-17x27.png' onclick='javascript:InsertText(\"SoBayed\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-5d019b356bd38360-24x24.png' onclick='javascript:InsertText(\"SSSsss\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-b85003ffba04e03e-24x24.png' onclick='javascript:InsertText(\"PunchTrees\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-5342e829290d1af0-17x27.png' onclick='javascript:InsertText(\"UleetBackup\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-e13a8382e40b19c7-18x27.png' onclick='javascript:InsertText(\"ArsonNoSexy\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-a204e65775b969c5-27x27.png' onclick='javascript:InsertText(\"TehFunrun\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-89e474822a976928-19x27.png' onclick='javascript:InsertText(\"NinjaTroll\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-c2b7132654a19e02-24x18.png?attredirects=0' onclick='javascript:InsertText(\"R)\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-13d54d9e49b593b3-24x18.png?attredirects=0' onclick='javascript:InsertText(\":)\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1a3f5d14a3190ef1-24x18.png?attredirects=0' onclick='javascript:InsertText(\":p\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-912125d7459226cc-24x18.png?attredirects=0' onclick='javascript:InsertText(\";P\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-e073a3348e028b40-24x18.png?attredirects=0' onclick='javascript:InsertText(\"B)\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-aa3dd5587f06bb7b-24x18.png?attredirects=0' onclick='javascript:InsertText(\";)\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-e9218a512e65b0de-24x18.png?attredirects=0' onclick='javascript:InsertText(\"O_o\",false);'>\
+		  <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-939757d7759f071f-24x18.png?attredirects=0' onclick='javascript:InsertText(\":z\",false);'>\
+		  <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-2d2d0e6fdbc0b733-24x18.png?attredirects=0' onclick='javascript:InsertText(\":(\",false);'>\
+		  <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-67cde8d0b7916e57-24x18.png?attredirects=0' onclick='javascript:InsertText(\"<3\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-3a624954918104fe-19x27.png?attredirects=0' onclick='javascript:InsertText(\"Kreygasm\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ddc6e3a8732cb50f-25x28.png?attredirects=0' onclick='javascript:InsertText(\"Kappa\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-6b8d1be08f244e92-19x27.png?attredirects=0' onclick='javascript:InsertText(\"RedCoat\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-8b5aaae6e2409deb-20x27.png?attredirects=0' onclick='javascript:InsertText(\"StoneLightning\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1903cc415afc404c-20x27.png?attredirects=0' onclick='javascript:InsertText(\"TheRinger\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-3a7ee1bc0e5c9af0-21x27.png?attredirects=0' onclick='javascript:InsertText(\"JKanStyle\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-41f8a86c4b15b5d8-22x27.png?attredirects=0' onclick='javascript:InsertText(\"OptimizePrime\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-551cd64fc3d4590a-21x27.png?attredirects=0' onclick='javascript:InsertText(\"CougarHunt\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-95eb8045e7ae63b8-18x27.png?attredirects=0' onclick='javascript:InsertText(\"EagleEye\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-35ae4e0e8dd045e1-22x27.png?attredirects=0' onclick='javascript:InsertText(\"BrokeBack\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-740242272832a108-30x30.png?attredirects=0' onclick='javascript:InsertText(\"BionicBunion\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-521420789e1e93ef-18x27.png?attredirects=0' onclick='javascript:InsertText(\"PazPazowitz\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-680b6b3887ef0d17-21x28.png?attredirects=0' onclick='javascript:InsertText(\"SwiftRage\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-39f055e707725b5d-18x27.png?attredirects=0' onclick='javascript:InsertText(\"BrainSlug\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ce52b18fccf73b29-25x32.png?attredirects=0' onclick='javascript:InsertText(\"DansGame\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-18be1a297459453f-36x30.png?attredirects=0' onclick='javascript:InsertText(\"PJSalt\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1a1a8bb5cdf6efb9-24x32.png?attredirects=0' onclick='javascript:InsertText(\"MVGame\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1e3ccd969459f889-29x27.png?attredirects=0' onclick='javascript:InsertText(\"BCWarrior\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ac61a7aeb52a49d3-39x27.png?attredirects=0' onclick='javascript:InsertText(\"MrDestructoid\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ce027387c35fb601-22x27.png?attredirects=0' onclick='javascript:InsertText(\"PicoMause\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-6aaca644ea5374c6-20x27.png?attredirects=0' onclick='javascript:InsertText(\"JonCarnage\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-3dac9659e838fab2-20x27.png?attredirects=0' onclick='javascript:InsertText(\"StrawBeary\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-2febb829eae08b0a-21x27.png?attredirects=0' onclick='javascript:InsertText(\"GingerPower\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-92a1b848540e9347-23x27.png?attredirects=0' onclick='javascript:InsertText(\"SuperVinlin\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-9f276ed33053ec70-32x32.png?attredirects=0' onclick='javascript:InsertText(\"SMOrc\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-d14278fea8fad146-19x27.png?attredirects=0' onclick='javascript:InsertText(\"FreakinStinkin\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-a5293e92212cadd9-21x27.png?attredirects=0' onclick='javascript:InsertText(\"BlargNaut\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-d530ef454aa17093-21x27.png?attredirects=0' onclick='javascript:InsertText(\"KevinTurtle\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-179f310b0746584d-23x27.png?attredirects=0' onclick='javascript:InsertText(\"NoNoSpot\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-58f4782b85d0069f-17x27.png?attredirects=0' onclick='javascript:InsertText(\"SoBayed\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-5d019b356bd38360-24x24.png?attredirects=0' onclick='javascript:InsertText(\"SSSsss\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-b85003ffba04e03e-24x24.png?attredirects=0' onclick='javascript:InsertText(\"PunchTrees\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-5342e829290d1af0-17x27.png?attredirects=0' onclick='javascript:InsertText(\"UleetBackup\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-e13a8382e40b19c7-18x27.png?attredirects=0' onclick='javascript:InsertText(\"ArsonNoSexy\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-a204e65775b969c5-27x27.png?attredirects=0' onclick='javascript:InsertText(\"TehFunrun\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-89e474822a976928-19x27.png?attredirects=0' onclick='javascript:InsertText(\"NinjaTroll\",false);'>\
           </td></tr></table></div>\
 		  <div id='myTab_Content6' style='display:none; width:440px; height:150px; overflow-y:scroll;'><table><tbody><td>\
 		  <img class='clickicon' onclick='javascript:InsertText(\"[angelx]\",false)' src='http://m.hkgolden.com/faces/xmas/angel.gif'>\
@@ -1378,32 +1378,32 @@ function icon()
           <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/air_girl.gif' onClick='javascript:InsertText(\"[nogirls]\",false);' height='32'>\
           <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/dogrun.gif' onClick='javascript:InsertText(\"[dogrun]\",false);' width='150'>\
 		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/small.gif' onClick='javascript:InsertText(\"[small]\",false);' height='22'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/tryingtoscareme.png' onClick='javascript:InsertText(\"[scareme]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/eatshit.png' onClick='javascript:InsertText(\"[eatsh*t]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wadiu.png' onClick='javascript:InsertText(\"[wadiu]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/repeaterror.png' onclick='javascript:InsertText(\"[error]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/playlife.png' height=32 onClick='javascript:InsertText(\"[playlife]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/diuornodiu.png' height=32 onClick='javascript:InsertText(\"[deal]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/sofunny.png' height=32 onClick='javascript:InsertText(\"[sofunny]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/uwillneversucceed.png' height=32 onClick='javascript:InsertText(\"[succeed]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wantit.png' height=32 onClick='javascript:InsertText(\"[uwants]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/pkambush.png' height=32 onClick='javascript:InsertText(\"[ambush]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/theseopportunities.png' height=32 onClick='javascript:InsertText(\"[chances]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ithinkiam0.png' height=32 onClick='javascript:InsertText(\"[iamzero]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/tryingtoscareme.png?attredirects=0' onClick='javascript:InsertText(\"[scareme]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/eatshit.png?attredirects=0' onClick='javascript:InsertText(\"[eatsh*t]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wadiu.png?attredirects=0' onClick='javascript:InsertText(\"[wadiu]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/repeaterror.png?attredirects=0' onclick='javascript:InsertText(\"[error]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/playlife.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[playlife]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/diuornodiu.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[deal]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/sofunny.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[sofunny]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/uwillneversucceed.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[succeed]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wantit.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[uwants]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/pkambush.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[ambush]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/theseopportunities.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[chances]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ithinkiam0.png?attredirects=0' height=32 onClick='javascript:InsertText(\"[iamzero]\",false);'>\
           <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/seed.gif' onclick='javascript:InsertText(\"[seed]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/icannotaccept.png' onclick='javascript:InsertText(\"[unacceptable]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/icannotaccept.png?attredirects=0' onclick='javascript:InsertText(\"[unacceptable]\",false);' height=32>\
           <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/stopsaying.gif' onClick='javascript:InsertText(\"[stopsaying]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/suchanuglygirl.png' onclick='javascript:InsertText(\"[ugly]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wholefamilydie.png' onclick='javascript:InsertText(\"[bye9bye]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/morepics.png' onclick='javascript:InsertText(\"[more]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/killmeplease.png' onclick='javascript:InsertText(\"[killme]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/suchanuglygirl.png?attredirects=0' onclick='javascript:InsertText(\"[ugly]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wholefamilydie.png?attredirects=0' onclick='javascript:InsertText(\"[bye9bye]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/morepics.png?attredirects=0' onclick='javascript:InsertText(\"[more]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/killmeplease.png?attredirects=0' onclick='javascript:InsertText(\"[killme]\",false);' height=32>\
           <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/mama.jpg' onclick='javascript:InsertText(\"[mum]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wfc.png' onclick='javascript:InsertText(\"[wfc]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/douknowtherules.png' onclick='javascript:InsertText(\"[rules]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/wfc.png?attredirects=0' onclick='javascript:InsertText(\"[wfc]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/douknowtherules.png?attredirects=0' onclick='javascript:InsertText(\"[rules]\",false);' height=32>\
 		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/illusiononly.gif' onclick='javascript:InsertText(\"[illusion]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/heiscrazy.png' onclick='javascript:InsertText(\"[crazy]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/congrats.png'  onclick='javascript:InsertText(\"[congrats]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/finalfantasy.png' onclick='javascript:InsertText(\"[ff]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/heiscrazy.png?attredirects=0' onclick='javascript:InsertText(\"[crazy]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/congrats.png?attredirects=0'  onclick='javascript:InsertText(\"[congrats]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/finalfantasy.png?attredirects=0' onclick='javascript:InsertText(\"[ff]\",false);' height=32>\
           </td></tr></table></div>\
 		  <div id='myTab_Content3' style='display:none;'>\
           <table><tr><td>\
@@ -1430,84 +1430,84 @@ function icon()
 		  </tr></table></div>\
           <div id='myTab_Content4' style='display:none;'>\
           <table><tr><td>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/foreveralone.png' onclick='javascript:InsertText(\"[falone]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/trollface.png' onclick='javascript:InsertText(\":trollface:\",false);' height='32'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/bitchplease.png' height='32' onclick='javascript:InsertText(\"[bitchplease]\",false);'>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/yuno.png' onclick='javascript:InsertText(\"[yuno]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/megusta.png' onclick='javascript:InsertText(\"[megusta]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fuckyea.png' onclick='javascript:InsertText(\"[fu*kyea]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/lol.png' onclick='javascript:InsertText(\"[lol]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fap.png' onclick='javascript:InsertText(\"[fap]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/soon.png' onclick='javascript:InsertText(\"[soon]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/seriously.png' onclick='javascript:InsertText(\"[serious?]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/truestory.png' onclick='javascript:InsertText(\"[truestory]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/jackiechan.png' onclick='javascript:InsertText(\"[jackiechan]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fullpanel.png' onclick='javascript:InsertText(\"[fullpanel]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/youdontsay.png' onclick='javascript:InsertText(\"[dontsay?]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ragepose.png' onclick='javascript:InsertText(\"[ragepose]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/soclose.png' onclick='javascript:InsertText(\"[soclose]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/feellikeasir.png' onclick='javascript:InsertText(\"[likeasir]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ymscare.png' onclick='javascript:InsertText(\"[scared]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/yesucan.png' onclick='javascript:InsertText(\"[yesucan]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/rufkingkiddingme.png' onclick='javascript:InsertText(\"[kidding?]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/deskflip.png' onclick='javascript:InsertText(\"[deskflip]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/okay.png' onclick='javascript:InsertText(\"[okay]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/no.png' onclick='javascript:InsertText(\"[no]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fuuuu.png' onclick='javascript:InsertText(\"[fuuuu]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ohgodwhy.png' onclick='javascript:InsertText(\"[ohgodwhy]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ifyouknowwhatimean.png' onclick='javascript:InsertText(\"[mrbean]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/iknowthatfeelbro.png' onclick='javascript:InsertText(\"[iknowthatfeelbro]\",false);' height=32>\
-		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/genius.png' onclick='javascript:InsertText(\"[genius]\",false);' height=32>\
-          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/gay.png' onclick='javascript:InsertText(\"[gaayyy]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/foreveralone.png?attredirects=0' onclick='javascript:InsertText(\"[falone]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/trollface.png?attredirects=0' onclick='javascript:InsertText(\":trollface:\",false);' height='32'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/bitchplease.png?attredirects=0' height='32' onclick='javascript:InsertText(\"[bitchplease]\",false);'>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/yuno.png?attredirects=0' onclick='javascript:InsertText(\"[yuno]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/megusta.png?attredirects=0' onclick='javascript:InsertText(\"[megusta]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fuckyea.png?attredirects=0' onclick='javascript:InsertText(\"[fu*kyea]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/lol.png?attredirects=0' onclick='javascript:InsertText(\"[lol]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fap.png?attredirects=0' onclick='javascript:InsertText(\"[fap]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/soon.png?attredirects=0' onclick='javascript:InsertText(\"[soon]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/seriously.png?attredirects=0' onclick='javascript:InsertText(\"[serious?]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/truestory.png?attredirects=0' onclick='javascript:InsertText(\"[truestory]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/jackiechan.png?attredirects=0' onclick='javascript:InsertText(\"[jackiechan]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fullpanel.png?attredirects=0' onclick='javascript:InsertText(\"[fullpanel]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/youdontsay.png?attredirects=0' onclick='javascript:InsertText(\"[dontsay?]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ragepose.png?attredirects=0' onclick='javascript:InsertText(\"[ragepose]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/soclose.png?attredirects=0' onclick='javascript:InsertText(\"[soclose]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/feellikeasir.png?attredirects=0' onclick='javascript:InsertText(\"[likeasir]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ymscare.png?attredirects=0' onclick='javascript:InsertText(\"[scared]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/yesucan.png?attredirects=0' onclick='javascript:InsertText(\"[yesucan]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/rufkingkiddingme.png?attredirects=0' onclick='javascript:InsertText(\"[kidding?]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/deskflip.png?attredirects=0' onclick='javascript:InsertText(\"[deskflip]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/okay.png?attredirects=0' onclick='javascript:InsertText(\"[okay]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/no.png?attredirects=0' onclick='javascript:InsertText(\"[no]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/fuuuu.png?attredirects=0' onclick='javascript:InsertText(\"[fuuuu]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ohgodwhy.png?attredirects=0' onclick='javascript:InsertText(\"[ohgodwhy]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/ifyouknowwhatimean.png?attredirects=0' onclick='javascript:InsertText(\"[mrbean]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/iknowthatfeelbro.png?attredirects=0' onclick='javascript:InsertText(\"[iknowthatfeelbro]\",false);' height=32>\
+		  <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/genius.png?attredirects=0' onclick='javascript:InsertText(\"[genius]\",false);' height=32>\
+          <img class='clickicon' src='http://sites.google.com/site/jtvhkgicon/home/image/gay.png?attredirects=0' onclick='javascript:InsertText(\"[gaayyy]\",false);' height=32>\
           </td></tr></table></div>\
           <div id='myTab_Content5' style='display:none;'>\
           <table><tr><td>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-c2b7132654a19e02-24x18.png' onclick='javascript:InsertText(\"R)\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-13d54d9e49b593b3-24x18.png' onclick='javascript:InsertText(\":)\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1a3f5d14a3190ef1-24x18.png' onclick='javascript:InsertText(\":p\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-912125d7459226cc-24x18.png' onclick='javascript:InsertText(\";P\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-e073a3348e028b40-24x18.png' onclick='javascript:InsertText(\"B)\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-aa3dd5587f06bb7b-24x18.png' onclick='javascript:InsertText(\";)\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-e9218a512e65b0de-24x18.png' onclick='javascript:InsertText(\"O_o\",false);'>\
-		  <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-939757d7759f071f-24x18.png' onclick='javascript:InsertText(\":z\",false);'>\
-		  <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-2d2d0e6fdbc0b733-24x18.png' onclick='javascript:InsertText(\":(\",false);'>\
-		  <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-67cde8d0b7916e57-24x18.png' onclick='javascript:InsertText(\"<3\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-3a624954918104fe-19x27.png' onclick='javascript:InsertText(\"Kreygasm\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ddc6e3a8732cb50f-25x28.png' onclick='javascript:InsertText(\"Kappa\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-6b8d1be08f244e92-19x27.png' onclick='javascript:InsertText(\"RedCoat\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-8b5aaae6e2409deb-20x27.png' onclick='javascript:InsertText(\"StoneLightning\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1903cc415afc404c-20x27.png' onclick='javascript:InsertText(\"TheRinger\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-3a7ee1bc0e5c9af0-21x27.png' onclick='javascript:InsertText(\"JKanStyle\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-41f8a86c4b15b5d8-22x27.png' onclick='javascript:InsertText(\"OptimizePrime\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-551cd64fc3d4590a-21x27.png' onclick='javascript:InsertText(\"CougarHunt\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-95eb8045e7ae63b8-18x27.png' onclick='javascript:InsertText(\"EagleEye\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-35ae4e0e8dd045e1-22x27.png' onclick='javascript:InsertText(\"BrokeBack\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-740242272832a108-30x30.png' onclick='javascript:InsertText(\"BionicBunion\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-521420789e1e93ef-18x27.png' onclick='javascript:InsertText(\"PazPazowitz\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-680b6b3887ef0d17-21x28.png' onclick='javascript:InsertText(\"SwiftRage\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-39f055e707725b5d-18x27.png' onclick='javascript:InsertText(\"BrainSlug\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ce52b18fccf73b29-25x32.png' onclick='javascript:InsertText(\"DansGame\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-18be1a297459453f-36x30.png' onclick='javascript:InsertText(\"PJSalt\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1a1a8bb5cdf6efb9-24x32.png' onclick='javascript:InsertText(\"MVGame\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1e3ccd969459f889-29x27.png' onclick='javascript:InsertText(\"BCWarrior\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ac61a7aeb52a49d3-39x27.png' onclick='javascript:InsertText(\"MrDestructoid\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ce027387c35fb601-22x27.png' onclick='javascript:InsertText(\"PicoMause\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-6aaca644ea5374c6-20x27.png' onclick='javascript:InsertText(\"JonCarnage\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-3dac9659e838fab2-20x27.png' onclick='javascript:InsertText(\"StrawBeary\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-2febb829eae08b0a-21x27.png' onclick='javascript:InsertText(\"GingerPower\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-92a1b848540e9347-23x27.png' onclick='javascript:InsertText(\"SuperVinlin\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-9f276ed33053ec70-32x32.png' onclick='javascript:InsertText(\"SMOrc\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-d14278fea8fad146-19x27.png' onclick='javascript:InsertText(\"FreakinStinkin\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-a5293e92212cadd9-21x27.png' onclick='javascript:InsertText(\"BlargNaut\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-d530ef454aa17093-21x27.png' onclick='javascript:InsertText(\"KevinTurtle\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-179f310b0746584d-23x27.png' onclick='javascript:InsertText(\"NoNoSpot\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-58f4782b85d0069f-17x27.png' onclick='javascript:InsertText(\"SoBayed\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-5d019b356bd38360-24x24.png' onclick='javascript:InsertText(\"SSSsss\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-b85003ffba04e03e-24x24.png' onclick='javascript:InsertText(\"PunchTrees\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-5342e829290d1af0-17x27.png' onclick='javascript:InsertText(\"UleetBackup\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-e13a8382e40b19c7-18x27.png' onclick='javascript:InsertText(\"ArsonNoSexy\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-a204e65775b969c5-27x27.png' onclick='javascript:InsertText(\"TehFunrun\",false);'>\
-          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-89e474822a976928-19x27.png' onclick='javascript:InsertText(\"NinjaTroll\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-c2b7132654a19e02-24x18.png?attredirects=0' onclick='javascript:InsertText(\"R)\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-13d54d9e49b593b3-24x18.png?attredirects=0' onclick='javascript:InsertText(\":)\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1a3f5d14a3190ef1-24x18.png?attredirects=0' onclick='javascript:InsertText(\":p\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-912125d7459226cc-24x18.png?attredirects=0' onclick='javascript:InsertText(\";P\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-e073a3348e028b40-24x18.png?attredirects=0' onclick='javascript:InsertText(\"B)\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-aa3dd5587f06bb7b-24x18.png?attredirects=0' onclick='javascript:InsertText(\";)\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-e9218a512e65b0de-24x18.png?attredirects=0' onclick='javascript:InsertText(\"O_o\",false);'>\
+		  <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-939757d7759f071f-24x18.png?attredirects=0' onclick='javascript:InsertText(\":z\",false);'>\
+		  <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-2d2d0e6fdbc0b733-24x18.png?attredirects=0' onclick='javascript:InsertText(\":(\",false);'>\
+		  <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-67cde8d0b7916e57-24x18.png?attredirects=0' onclick='javascript:InsertText(\"<3\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-3a624954918104fe-19x27.png?attredirects=0' onclick='javascript:InsertText(\"Kreygasm\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ddc6e3a8732cb50f-25x28.png?attredirects=0' onclick='javascript:InsertText(\"Kappa\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-6b8d1be08f244e92-19x27.png?attredirects=0' onclick='javascript:InsertText(\"RedCoat\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-8b5aaae6e2409deb-20x27.png?attredirects=0' onclick='javascript:InsertText(\"StoneLightning\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1903cc415afc404c-20x27.png?attredirects=0' onclick='javascript:InsertText(\"TheRinger\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-3a7ee1bc0e5c9af0-21x27.png?attredirects=0' onclick='javascript:InsertText(\"JKanStyle\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-41f8a86c4b15b5d8-22x27.png?attredirects=0' onclick='javascript:InsertText(\"OptimizePrime\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-551cd64fc3d4590a-21x27.png?attredirects=0' onclick='javascript:InsertText(\"CougarHunt\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-95eb8045e7ae63b8-18x27.png?attredirects=0' onclick='javascript:InsertText(\"EagleEye\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-35ae4e0e8dd045e1-22x27.png?attredirects=0' onclick='javascript:InsertText(\"BrokeBack\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-740242272832a108-30x30.png?attredirects=0' onclick='javascript:InsertText(\"BionicBunion\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-521420789e1e93ef-18x27.png?attredirects=0' onclick='javascript:InsertText(\"PazPazowitz\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-680b6b3887ef0d17-21x28.png?attredirects=0' onclick='javascript:InsertText(\"SwiftRage\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-39f055e707725b5d-18x27.png?attredirects=0' onclick='javascript:InsertText(\"BrainSlug\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ce52b18fccf73b29-25x32.png?attredirects=0' onclick='javascript:InsertText(\"DansGame\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-18be1a297459453f-36x30.png?attredirects=0' onclick='javascript:InsertText(\"PJSalt\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1a1a8bb5cdf6efb9-24x32.png?attredirects=0' onclick='javascript:InsertText(\"MVGame\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-1e3ccd969459f889-29x27.png?attredirects=0' onclick='javascript:InsertText(\"BCWarrior\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ac61a7aeb52a49d3-39x27.png?attredirects=0' onclick='javascript:InsertText(\"MrDestructoid\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-ce027387c35fb601-22x27.png?attredirects=0' onclick='javascript:InsertText(\"PicoMause\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-6aaca644ea5374c6-20x27.png?attredirects=0' onclick='javascript:InsertText(\"JonCarnage\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-3dac9659e838fab2-20x27.png?attredirects=0' onclick='javascript:InsertText(\"StrawBeary\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-2febb829eae08b0a-21x27.png?attredirects=0' onclick='javascript:InsertText(\"GingerPower\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-92a1b848540e9347-23x27.png?attredirects=0' onclick='javascript:InsertText(\"SuperVinlin\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-9f276ed33053ec70-32x32.png?attredirects=0' onclick='javascript:InsertText(\"SMOrc\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-d14278fea8fad146-19x27.png?attredirects=0' onclick='javascript:InsertText(\"FreakinStinkin\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-a5293e92212cadd9-21x27.png?attredirects=0' onclick='javascript:InsertText(\"BlargNaut\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-d530ef454aa17093-21x27.png?attredirects=0' onclick='javascript:InsertText(\"KevinTurtle\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-179f310b0746584d-23x27.png?attredirects=0' onclick='javascript:InsertText(\"NoNoSpot\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-58f4782b85d0069f-17x27.png?attredirects=0' onclick='javascript:InsertText(\"SoBayed\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-5d019b356bd38360-24x24.png?attredirects=0' onclick='javascript:InsertText(\"SSSsss\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-b85003ffba04e03e-24x24.png?attredirects=0' onclick='javascript:InsertText(\"PunchTrees\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-5342e829290d1af0-17x27.png?attredirects=0' onclick='javascript:InsertText(\"UleetBackup\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-e13a8382e40b19c7-18x27.png?attredirects=0' onclick='javascript:InsertText(\"ArsonNoSexy\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-a204e65775b969c5-27x27.png?attredirects=0' onclick='javascript:InsertText(\"TehFunrun\",false);'>\
+          <img class='clickicon' src='http://static-cdn.jtvnw.net/jtv_user_pictures/chansub-global-emoticon-89e474822a976928-19x27.png?attredirects=0' onclick='javascript:InsertText(\"NinjaTroll\",false);'>\
           </td></tr></table></div>\
 		  <div id='myTab_Content6' style='display:none; width:440px; height:165px; overflow-y:scroll;'><table><tbody><td>\
 		  <img class='clickicon' onclick='javascript:InsertText(\"[angelx]\",false)' src='http://m.hkgolden.com/faces/xmas/angel.gif'>\
