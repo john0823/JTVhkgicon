@@ -1003,7 +1003,7 @@ function icon()
           </td></tr></table></div>\
           <div id='myTab_Content2' style='display:none;'>\
           <table><tr><td>\
-          <img style='cursor:pointer; vertical-align:middle;' src='https://sites.google.com/site/jtvhkgicon/image/img.gif' onClick='javascript:InsertText(\"[img],圖片網址,[/img]\",true);'>\
+          <img style='cursor:pointer; vertical-align:middle;' src='http://m.hkgolden.com/images/image.gif' onClick='javascript:InsertText(\"[img],圖片網址,[/img]\",true);'>\
           <img style='cursor:pointer; vertical-align:middle;' src='https://sites.google.com/site/jtvhkgicon/image/byesad.gif' onClick='javascript:InsertText(\"[byesad]\",false);' height='15'>\
           <img style='cursor:pointer; vertical-align:middle;' src='https://sites.google.com/site/jtvhkgicon/image/byecry.gif' onClick='javascript:InsertText(\"[byecry]\",false);' height='18'>\
 		  <img style='cursor:pointer; vertical-align:middle;' src='https://sites.google.com/site/jtvhkgicon/image/bye369.gif' onClick='javascript:InsertText(\"[bye369]\",false);' height='15'>\
@@ -1368,7 +1368,7 @@ function icon()
           </td></tr></table></div>\
           <div id='myTab_Content2' style='display:none;'>\
           <table><tr><td>\
-          <img style='cursor:pointer; vertical-align:middle;' src='https://sites.google.com/site/jtvhkgicon/image/img.gif' onClick='javascript:InsertText(\"[img],圖片網址,[/img]\",true);'>\
+          <img style='cursor:pointer; vertical-align:middle;' src='http://m.hkgolden.com/images/image.gif' onClick='javascript:InsertText(\"[img],圖片網址,[/img]\",true);'>\
           <img style='cursor:pointer; vertical-align:middle;' src='https://sites.google.com/site/jtvhkgicon/image/byesad.gif' onClick='javascript:InsertText(\"[byesad]\",false);' height='15'>\
           <img style='cursor:pointer; vertical-align:middle;' src='https://sites.google.com/site/jtvhkgicon/image/byecry.gif' onClick='javascript:InsertText(\"[byecry]\",false);' height='18'>\
 		  <img style='cursor:pointer; vertical-align:middle;' src='https://sites.google.com/site/jtvhkgicon/image/bye369.gif' onClick='javascript:InsertText(\"[bye369]\",false);' height='15'>\
