@@ -2034,5 +2034,14 @@ function timer(){
 	if(location.href.split("/")[3] != "chat"){
 		setInterval("setupZoom();", 100);
 	}
+	resizebg();
 	setTimeout("nomod();", 5000);
+}
+
+function resizebg(){
+	var bg = document.getElementsByTagName("body")[0];
+	//bg.style.-moz-background-size = "cover";
+	bg.style.backgroundSize = "cover";
+	bg.style.margin = "0";
+	bg.style.padding = "0";
 }
